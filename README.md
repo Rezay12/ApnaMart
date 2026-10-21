@@ -1,4 +1,4 @@
-# ApnaMart &ndash; Hyperlocal Kirana & Department Store Pre-Ordering Platform
+# ApnaMart &ndash; Fresh Groceries, Local Store Catalog, Pre-Order & Pickup
 
 <div align="center">
 
